@@ -1,9 +1,9 @@
-# field-notes
+# workers-gotchas
 
-Stuff I keep looking up. Not a product.
+Cloudflare Workers, D1, wrangler. Plus the bun / GitHub bits that sit next to them.
 
 | Note | What |
 |---|---|
-| [cloudflare-workers.md](./cloudflare-workers.md) | Workers / D1 / wrangler gotchas |
-| [bun-workspaces.md](./bun-workspaces.md) | bun workspaces in a monorepo |
-| [github.md](./github.md) | contribution graph, private repos, `gh` |
+| [cloudflare-workers.md](./cloudflare-workers.md) | isolate, D1, wrangler, R2 |
+| [bun-workspaces.md](./bun-workspaces.md) | workspaces, lockfile, exports |
+| [github.md](./github.md) | contribution graph, `gh` scopes |
