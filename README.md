@@ -1,9 +1,6 @@
 # field-notes
 
-Personal working notes. This repo started as `git_test` in May 2022 (Odin).
-Left the original `hello_world.txt` in place.
-
-Not a product. Not a changelog. Stuff I keep looking up.
+Stuff I keep looking up. Not a product.
 
 | Note | What |
 |---|---|
