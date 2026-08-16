@@ -1,0 +1,9 @@
+- terse. sacrifice grammar for concision
+- en-US — notes, commits, comments
+- personal Workers / D1 / wrangler / bun notes, not a product
+- ask before destructive git
+- stack: Cloudflare Workers, D1, R2, KV, Durable Objects
+- Workers docs: https://developers.cloudflare.com/agent-setup/prompt.md
+- honey https://github.com/lovrozagar/honey
+- flare https://github.com/lovrozagar/flare
+- oat https://github.com/lovrozagar/oat
